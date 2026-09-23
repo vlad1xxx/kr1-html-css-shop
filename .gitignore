@@ -4,6 +4,7 @@ Thumbs.db
 
 # Настройки редактора
 .vscode/
+.idea/
 
 # Логи
 *.log
